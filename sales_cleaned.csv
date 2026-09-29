@@ -1,0 +1,30 @@
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,Discount,PaymentMethod,Region,OrderDate,Rating
+5001,John Smith,Wireless Mouse,Electronics,2,29.99,0.1,Credit Card,North,2024-01-05,5.0
+5002,Maria Garcia,Yoga Mat,Sports,1,19.99,,Cash,South,2024-01-15,4.0
+5003,Ahmed Khan,Bluetooth Speaker,Electronics,3,45.0,0.05,PayPal,East,2024-01-20,
+5004,Lisa Wong,Face Cream,Beauty,2,12.5,,Debit Card,West,2024-01-22,3.0
+5005,Unknown,Notebook Set,Home & Kitchen,4,8.99,0.1,Credit Card,North,2024-01-25,5.0
+5006,David Lee,Running Shoes,Sports,1,59.99,,Cash,South,2024-01-28,4.0
+5007,Sara Ahmed,Action Figure,Toys,2,14.99,0.0,PayPal,East,2024-02-01,2.0
+5008,Omar Farouk,Cookware Set,Home & Kitchen,1,89.99,0.15,Bank Transfer,West,2024-02-03,5.0
+5009,Emily Clark,Desk Lamp,Electronics,2,22.5,,Credit Card,North,2024-02-06,4.0
+5010,Noah Brown,Backpack,Clothing,2,34.99,0.1,Cash,South,2024-02-06,
+5011,Amina Yusuf,Face Cream,Beauty,5,12.5,,Debit Card,East,2024-02-10,3.0
+5012,Liam Johnson,Wireless Mouse,Electronics,3,29.99,,Credit Card,West,2024-02-10,5.0
+5013,Zainab Ali,Yoga Mat,Sports,1,19.99,0.05,Cash,North,2024-02-14,4.0
+5014,Unknown,Bluetooth Speaker,Electronics,2,45.0,,PayPal,South,2024-02-15,
+5015,Karim Saleh,Running Shoes,Sports,1,59.99,0.1,Credit Card,East,2024-02-18,5.0
+5016,Grace Kim,Notebook Set,Home & Kitchen,3,8.99,,Cash,West,2024-02-18,4.0
+5017,Hassan Malik,Action Figure,Toys,2,14.99,0.1,Debit Card,North,2024-02-20,3.0
+5018,Olivia Turner,Cookware Set,Home & Kitchen,1,89.99,,Credit Card,South,2024-02-22,
+5019,Yusuf Ibrahim,Desk Lamp,Electronics,2,22.5,,PayPal,East,2024-02-22,4.0
+5020,Sophia Rossi,Backpack,Clothing,1,34.99,0.1,Cash,West,2024-02-25,5.0
+5021,Ibrahim Nasser,Face Cream,Beauty,2,12.5,,Credit Card,North,2024-02-27,2.0
+5022,Mia Torres,Wireless Mouse,Electronics,4,29.99,0.0,Cash,South,2024-02-27,4.0
+5023,Ali Reza,Yoga Mat,Sports,2,19.99,,Debit Card,East,2024-03-01,
+5024,Fatima Noor,Bluetooth Speaker,Electronics,1,45.0,0.1,PayPal,West,2024-03-01,5.0
+5025,Chen Wei,Running Shoes,Sports,2,59.99,,Credit Card,North,2024-03-03,3.0
+5026,Anna Petrov,Notebook Set,Home & Kitchen,5,8.99,,Cash,South,2024-03-03,4.0
+5027,Ravi Patel,Action Figure,Toys,2,14.99,,Bank Transfer,East,2024-03-05,5.0
+5028,Nina Kowalski,Cookware Set,Home & Kitchen,2,89.99,0.1,Credit Card,West,2024-03-07,
+5029,Tom Becker,Desk Lamp,Electronics,1,22.5,,PayPal,North,2024-03-07,4.0
